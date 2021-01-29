@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AlarmClock
+Comment=alarm
+Exec=gnome-terminal --geometry=75x15 -x python3 -i /home/xoradin/Desktop/AlarmClock.py
+Icon=org.xfce.notification
+Path=
+Terminal=false
+StartupNotify=false
